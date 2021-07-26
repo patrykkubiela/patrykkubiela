@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👋 Hi there!
+
+My name is Patryk Kubiela and I'm a fan of Nintendo Switch and the atmosphere of games for this platform. Sometimes I run, sometimes I exercise, I read a lot, and recently I listen to books - it's addictive! Do not start the topic of coffee - you will not free yourself from me ;) 
+
+🔭 I’m currently working on 
 
 <!--
 **patrykkubiela/patrykkubiela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
