@@ -13,7 +13,7 @@ My name is Patryk Kubiela and I'm a fan of Nintendo Switch and the atmosphere of
 
 
 
-📫 Reach me out with...
+📫 Reach me out with... ( instagram is preferred contact method :camera_flash: )
 
 [![Linkedin Badge](https://img.shields.io/badge/-Patryk_Kubiela-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patryk-kubiela-b0536b89/) 
 [![Mail Badge](https://img.shields.io/badge/-@programistadoswiadczony-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/programistadoswiadczony/) 
