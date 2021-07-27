@@ -4,9 +4,14 @@
 
 My name is Patryk Kubiela and I'm a fan of Nintendo Switch and the atmosphere of games for this platform. Sometimes I run, sometimes I exercise, I read a lot, and recently I listen to books - it's addictive! Do not start the topic of coffee - you will not free yourself from me :coffee:
 
-🔭 I’m currently working on 
+🔭 I’m currently working at [INEX SoftWare](http://inexsoftware.com.pl/)
+
+:wolf: My recent pet project that I'm in
 
 - [Crumbs](https://github.com/patrykkubiela/Crumbs) - my own implementation of GTD framework with few specific functionalities like tasks linked lists and trees.
+
+📫 Reach me out with...
+
 
 <!--
 **patrykkubiela/patrykkubiela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
