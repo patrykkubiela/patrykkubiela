@@ -15,6 +15,8 @@ My name is Patryk Kubiela and I'm a fan of Nintendo Switch and the atmosphere of
 
 📫 Reach me out with...
 
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&url=https://www.instagram.com/programistadoswiadczony/)
+
 
 <!--
 **patrykkubiela/patrykkubiela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
