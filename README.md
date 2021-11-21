@@ -4,7 +4,7 @@
 
 My name is Patryk Kubiela and I'm a fan of Nintendo Switch and the atmosphere of games for this platform. Sometimes I run, sometimes I exercise, I read a lot, and recently I listen to books - it's addictive! Do not start the topic of coffee - you will not free yourself from me :coffee:
 
-🔭 I’m currently working at [INEX SoftWare](http://inexsoftware.com.pl/)
+🔭 I’m currently working at [Comernal Sp. z o.o.](http://comernal.com/)
 
 
 :wolf: My pet project that I'm curently working on
