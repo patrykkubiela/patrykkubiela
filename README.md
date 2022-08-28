@@ -9,7 +9,7 @@ My name is Patryk Kubiela and I'm a fan of Nintendo Switch and the atmosphere of
 
 :wolf: My pet project that I'm curently working on
 
-- [Crumbs](https://github.com/patrykkubiela/Monogotodo) - it's my own implementation of GTD framework with specific functionality like tasks linked lists and trees. It means that you can create list of taskt that are linked and have specific order of doing. Also you will able to create tree of tasks or group them. At this moment project is only in "backend phase".
+- [Monogotodo](https://github.com/patrykkubiela/Monogotodo) - it's my own implementation of GTD framework with specific functionality like tasks linked lists and trees. It means that you can create list of taskt that are linked and have specific order of doing. Also you will able to create tree of tasks or group them. At this moment project is only in "backend phase".
 
 
 
